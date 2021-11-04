@@ -1,20 +1,9 @@
-### Hi there 👋
+### Hey ! I'm Alex 👋
+### Welcome to my Github repo !
 
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
+### - 🧑‍💻 I’m currently working on my portfolio
+- 📚 I’m currently learning React and GSAP
+- 🤗 I’m looking for any kind of help to find an internship ASAP 
+- 💬 Feel free to ask me about any question about my work
+- 📱 How to reach me : [alexandrecler.pro@gmail.com]()
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
